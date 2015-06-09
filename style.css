@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color:#010101;
+	}
+
+hr{
+	color:#F8E704;
+	max-width: 100%;
+}
+
+.morethanart{
+	align:center;
+    
+}
+
+.Logo{
+	
+	background-image:url(More%20Than%20ART%20NEW%20LOGO2.jpg);
+	display:block;
+	height:252px;
+	width:1080px;
+	bored-top:10px;
+	bored-bottom:10px;
+	bored-color:#E6FC03; 
+}
+
+hr{
+	width:100%;
+	height:10px;
+	border:0;
+	background:#F8E704;
+	
+}
+
+nav li{
+	display: inline-block;
+	margin-left:10%;
+	}
+	
+nav a{
+	text-decoration:none;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:36pt;
+	color:#F0FF01;
+
+}
+
+.studioflow{
+	float:left;
+	width:360px;
+	margin:20px;
+	border:1px solid white;
+	box-shadow: 3px 3px 5px grey;
+}
+
+.artbasel{
+	float:left;
+	width:760px;
+	margin:20px;
+	border:1px solid white;
+	box-shadow: 3px 3px 5px grey;
+	
+}
+
+footer { 
+    display: block;
+	text-decoration:none;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:12pt;
+	color:#F0FF01;
+	}
+	
