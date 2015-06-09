@@ -69,5 +69,17 @@ nav a{
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size:12pt;
 	color:#F0FF01;
+	align:center;
 	}
+	
+	
+p{
+	text-decoration:none;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:12pt;
+	color:#F0FF01;
+	text-align: left|right|center|justify|initial|inherit;
+	padding:1%
+}
+
 	
