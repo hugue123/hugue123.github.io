@@ -63,7 +63,7 @@ nav a{
 	
 }
 
-footer { 
+.copyright, .push { 
     display: block;
 	text-decoration:none;
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
